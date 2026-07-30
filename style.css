@@ -155,3 +155,44 @@ button:hover{
 }
 
 }
+/* ================= LOVE LETTER ================= */
+
+#letter{
+
+display:none;
+
+padding:100px 25px;
+
+text-align:center;
+
+max-width:900px;
+
+margin:auto;
+
+}
+
+#letter h2{
+
+font-family:'Cinzel',serif;
+
+font-size:40px;
+
+color:#FFD700;
+
+margin-bottom:40px;
+
+}
+
+#typing{
+
+font-size:22px;
+
+line-height:2;
+
+color:#f3f3f3;
+
+white-space:pre-wrap;
+
+min-height:300px;
+
+}
