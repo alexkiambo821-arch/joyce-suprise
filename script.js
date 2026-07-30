@@ -43,18 +43,18 @@ function openWebsite() {
 
     const song = document.getElementById("loveSong");
 
+if (song) {
     song.volume = 0.8;
 
     song.play().catch(error => {
         console.log("Autoplay blocked:", error);
     });
-
+}
     startPetals();
     startSparkles();
     typeLetter();
 }
-}
-}
+
 function startPetals() {
 
     setInterval(() => {
