@@ -29,7 +29,7 @@ function typeLetter(){
         setTimeout(typeLetter,35);
 
     }
-
+}
 function openWebsite(){
 
     document.getElementById("welcome").style.display="none";
