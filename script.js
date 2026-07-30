@@ -138,8 +138,16 @@ document.querySelectorAll(".special-card").forEach(card=>{
 observer.observe(card);
 
 });
+function showFinale() {
+
+    document.getElementById("surpriseBtn").style.display = "none";
+
+    document.getElementById("finalMessage").style.display = "block";
+
+    startFireworks();
 
 }
+    
 const canvas = document.getElementById("fireworks");
 const ctx = canvas.getContext("2d");
 
