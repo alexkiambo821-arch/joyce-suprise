@@ -12,13 +12,7 @@ body{
 }
 /* Hide everything except the welcome page */
 
-#main,
-#letter,
-#special,
-#reasons,
-#gallery{
-    display:none;
-}
+
 /* Stars */
 
 .stars{
