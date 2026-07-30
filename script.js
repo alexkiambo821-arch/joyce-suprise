@@ -39,9 +39,9 @@ function openWebsite() {
     document.getElementById("special").style.display = "block";
     document.getElementById("reasons").style.display = "block";
     document.getElementById("gallery").style.display = "block";
-document.getElementById("journey").style.display = "block";
-document.getElementById("ending").style.display = "block";
-document.getElementById("music").style.display = "block";
+    document.getElementById("journey").style.display = "block";
+    document.getElementById("ending").style.display = "block";
+    document.getElementById("music").style.display = "block";
     
     
     const song = document.getElementById("loveSong");
@@ -136,9 +136,7 @@ const observer = new IntersectionObserver((entries) => {
 });
 
 document.querySelectorAll(".special-card").forEach(card => {
-
     observer.observe(card);
-
 });
 
 document.querySelectorAll(".special-card").forEach(card=>{
