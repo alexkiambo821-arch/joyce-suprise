@@ -38,6 +38,15 @@ function openWebsite() {
     document.getElementById("letter").style.display = "block";
     document.getElementById("special").style.display = "block";
     document.getElementById("reasons").style.display = "block";
+    document.getElementById("music").style.display = "block";
+
+    const song = document.getElementById("loveSong");
+
+    song.volume = 0.4;
+
+    song.play().catch(error => {
+        console.log("Autoplay blocked:", error);
+    });
 
     startPetals();
     startSparkles();
