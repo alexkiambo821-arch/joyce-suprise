@@ -297,3 +297,49 @@ line-height:1.8;
 color:#ddd;
 
 }
+/* ===== Reasons Timeline ===== */
+
+#reasons{
+    padding:120px 20px;
+    text-align:center;
+}
+
+#reasons h1{
+    color:#FFD700;
+    font-family:'Cinzel',serif;
+    font-size:42px;
+    margin-bottom:60px;
+}
+
+.timeline{
+    max-width:900px;
+    margin:auto;
+}
+
+.moment{
+    background:rgba(255,255,255,.07);
+    border-left:4px solid gold;
+    margin:35px 0;
+    padding:25px;
+    border-radius:15px;
+    transition:.4s;
+}
+
+.moment:hover{
+    transform:translateX(12px);
+    box-shadow:0 0 25px rgba(255,215,0,.35);
+}
+
+.moment span{
+    font-size:40px;
+}
+
+.moment h3{
+    color:#FFD700;
+    margin:15px 0;
+}
+
+.moment p{
+    color:#ddd;
+    line-height:1.8;
+}
