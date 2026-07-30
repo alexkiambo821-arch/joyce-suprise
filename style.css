@@ -16,7 +16,8 @@ body{
 #special,
 #reasons,
 #gallery,
-#journey{
+#journey,
+#ending{
     display:none;
 }
 
@@ -423,4 +424,81 @@ journey{
     color:#eee;
     line-height:1.8;
     font-size:18px;
+}
+/* ================= ENDING ================= */
+
+#ending{
+    display:none;
+    padding:120px 20px;
+    text-align:center;
+}
+
+#surpriseBtn{
+    padding:20px 45px;
+    font-size:22px;
+    font-weight:bold;
+    border:none;
+    border-radius:50px;
+    background:#FFD700;
+    color:#111;
+    cursor:pointer;
+    transition:.4s;
+}
+
+#surpriseBtn:hover{
+    transform:scale(1.08);
+    box-shadow:0 0 30px gold;
+}
+
+#finalMessage{
+    margin-top:60px;
+    animation:fadeIn 2s ease;
+}
+
+#finalMessage h1{
+    font-family:'Cinzel', serif;
+    color:#FFD700;
+    font-size:46px;
+    margin-bottom:30px;
+}
+
+#finalMessage p{
+    max-width:850px;
+    margin:auto;
+    font-size:22px;
+    line-height:2;
+    color:#f5f5f5;
+}
+
+#finalMessage h2{
+    margin-top:35px;
+    color:#FFD700;
+    font-family:'Cinzel', serif;
+}
+
+.ending-photo{
+    width:300px;
+    max-width:90%;
+    margin:50px auto 25px;
+    display:block;
+    border-radius:25px;
+    border:5px solid gold;
+    box-shadow:0 0 35px rgba(255,215,0,.6);
+    transition:.5s;
+}
+
+.ending-photo:hover{
+    transform:scale(1.03);
+    box-shadow:0 0 50px rgba(255,215,0,.9);
+}
+
+@keyframes fadeIn{
+    from{
+        opacity:0;
+        transform:translateY(40px);
+    }
+    to{
+        opacity:1;
+        transform:translateY(0);
+    }
 }
