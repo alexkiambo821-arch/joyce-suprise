@@ -53,7 +53,7 @@ function openWebsite() {
     startSparkles();
     typeLetter();
 }
-
+}
 }
 function startPetals() {
 
