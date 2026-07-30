@@ -1,12 +1,48 @@
-function openWebsite() {
+const message = `
 
-    document.getElementById("welcome").style.display = "none";
+Dear Joyce,
 
-    document.getElementById("main").style.display = "block";
+Happy Girlfriends' Day. ❤️
+
+Some people enter our lives so quietly that they don't even realize the impact they have.
+
+I just wanted to remind you today that your smile, your kindness and the beautiful person you are never go unnoticed.
+
+This little website is simply my way of saying thank you for being someone worth appreciating.
+
+I hope today brings you countless reasons to smile.
+
+— Alex 🌹
+
+`;
+
+let index = 0;
+
+function typeLetter(){
+
+    if(index < message.length){
+
+        document.getElementById("typing").innerHTML += message.charAt(index);
+
+        index++;
+
+        setTimeout(typeLetter,35);
+
+    }
+
+function openWebsite(){
+
+    document.getElementById("welcome").style.display="none";
+
+    document.getElementById("main").style.display="block";
+
+    document.getElementById("letter").style.display="block";
 
     startPetals();
 
     startSparkles();
+
+    typeLetter();
 
 }
 
