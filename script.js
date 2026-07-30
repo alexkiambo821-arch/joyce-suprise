@@ -39,8 +39,10 @@ function openWebsite() {
     document.getElementById("special").style.display = "block";
     document.getElementById("reasons").style.display = "block";
     document.getElementById("gallery").style.display = "block";
-    document.getElementById("music").style.display = "block";
     document.getElementById("journey").style.display = "block";
+    document.getElementById("journey").style.display = "block";
+    document.getElementById("music").style.display = "block";
+    
     
     const song = document.getElementById("loveSong");
 
