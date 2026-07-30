@@ -29,17 +29,21 @@ function typeLetter(){
         setTimeout(typeLetter,35);
 
     }
+}
 function openWebsite() {
 
     document.getElementById("welcome").style.display = "none";
-    document.getElementById("content").style.display = "block";
+
+    document.getElementById("main").style.display = "block";
+    document.getElementById("letter").style.display = "block";
+    document.getElementById("special").style.display = "block";
+    document.getElementById("reasons").style.display = "block";
 
     startPetals();
     startSparkles();
     typeLetter();
 
 }
-
 function startPetals() {
 
     setInterval(() => {
