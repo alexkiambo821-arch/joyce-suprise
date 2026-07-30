@@ -15,7 +15,8 @@ body{
 #main,
 #letter,
 #special,
-#reasons{
+#reasons,
+#gallery{
     display:none;
 }
 /* Stars */
