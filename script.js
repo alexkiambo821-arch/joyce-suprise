@@ -29,19 +29,13 @@ function typeLetter(){
         setTimeout(typeLetter,35);
 
     }
-}
-function openWebsite(){
+function openWebsite() {
 
-    document.getElementById("welcome").style.display="none";
-
-    document.getElementById("main").style.display="block";
-
-    document.getElementById("letter").style.display="block";
+    document.getElementById("welcome").style.display = "none";
+    document.getElementById("content").style.display = "block";
 
     startPetals();
-
     startSparkles();
-
     typeLetter();
 
 }
