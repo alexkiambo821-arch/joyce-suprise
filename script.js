@@ -38,11 +38,12 @@ function openWebsite() {
     document.getElementById("letter").style.display = "block";
     document.getElementById("special").style.display = "block";
     document.getElementById("reasons").style.display = "block";
+    document.getElementById("gallery").style.display = "block";
     document.getElementById("music").style.display = "block";
 
     const song = document.getElementById("loveSong");
 
-    song.volume = 0.4;
+    song.volume = 0.8;
 
     song.play().catch(error => {
         console.log("Autoplay blocked:", error);
@@ -51,6 +52,7 @@ function openWebsite() {
     startPetals();
     startSparkles();
     typeLetter();
+}
 
 }
 function startPetals() {
