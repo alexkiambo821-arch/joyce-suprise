@@ -10,14 +10,6 @@ body{
     color:white;
     overflow-x:hidden;
 }
-/* Hide everything except the welcome page */
-
-#main,
-#letter,
-#special,
-#reasons{
-    display:none;
-}
 /* Stars */
 
 .stars{
