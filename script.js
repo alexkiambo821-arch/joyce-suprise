@@ -1,6 +1,6 @@
 const message = `
 
-Dear Joyce,
+Dear Eunice,
 
 Happy Girlfriends' Day. ❤️
 
@@ -12,7 +12,7 @@ This little website is simply my way of saying thank you for being someone worth
 
 I hope today brings you countless reasons to smile.
 
-— Alex 🌹
+— Pean 🌹
 
 `;
 
@@ -38,7 +38,6 @@ function openWebsite() {
     document.getElementById("letter").style.display = "block";
     document.getElementById("special").style.display = "block";
     document.getElementById("reasons").style.display = "block";
-    document.getElementById("gallery").style.display = "block";
     document.getElementById("journey").style.display = "block";
     document.getElementById("ending").style.display = "block";
     document.getElementById("music").style.display = "block";
