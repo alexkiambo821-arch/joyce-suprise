@@ -1,6 +1,6 @@
 const message = `
 
-**Dear Natasha, ❤️
+Dear Natasha, ❤️
 
 If there's one thing I wish you could see, it's how beautifully you've found your way into my heart without even trying. ❤️
 
