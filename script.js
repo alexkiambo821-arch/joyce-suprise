@@ -1,16 +1,14 @@
 const message = `
 
-Dear Joyce,
+**Dear Natasha, ❤️🌹**
 
-Happy Girlfriends' Day. ❤️
+Some people come into our lives and slowly become someone we can't imagine losing. Somehow, you've become that person to me. ❤️
 
-Some people enter our lives so quietly that they don't even realize the impact they have.
+I don't know what the future holds for us, but I know that what I feel for you is real. You're more than just a pretty smile to me; you're someone I'd choose to understand, someone I'd stand beside through difficult days, and someone I'd be willing to make sacrifices for, just to see her happy. 🥹❤️
 
-I just wanted to remind you today that your smile, your kindness and the beautiful person you are never go unnoticed.
+I'm not promising you a perfect love, but I'm willing to give you an honest one, to put in the effort, to grow with you, and to show you through my actions that you matter to me. I don't want to rush your heart or pressure you into anything. I just want you to know that if you give me the chance, I'll do my best to make you feel as loved and valued as you truly deserve.
 
-This little website is simply my way of saying thank you for being someone worth appreciating.
-
-I hope today brings you countless reasons to smile.
+**Natasha, if my heart could speak without fear, it would tell you that you're the girl I hope to call mine someday.** ❤️🌹
 
 — Alex 🌹
 
