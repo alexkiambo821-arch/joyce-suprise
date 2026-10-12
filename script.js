@@ -1,16 +1,16 @@
 const message = `
 
-**Dear Natasha, ❤️🌹**
+**Dear Natasha, ❤️
 
-Some people come into our lives and slowly become someone we can't imagine losing. Somehow, you've become that person to me. ❤️
+If there's one thing I wish you could see, it's how beautifully you've found your way into my heart without even trying. ❤️
 
-I don't know what the future holds for us, but I know that what I feel for you is real. You're more than just a pretty smile to me; you're someone I'd choose to understand, someone I'd stand beside through difficult days, and someone I'd be willing to make sacrifices for, just to see her happy. 🥹❤️
+There's something about you that makes me want to do better, love deeper, and become someone who can give you the kind of happiness you deserve. It's not just about the smiles, the little moments, or the way you make me feel; it's about the thought of having you beside me and building something real with you. 🫶🏽❤️
 
-I'm not promising you a perfect love, but I'm willing to give you an honest one, to put in the effort, to grow with you, and to show you through my actions that you matter to me. I don't want to rush your heart or pressure you into anything. I just want you to know that if you give me the chance, I'll do my best to make you feel as loved and valued as you truly deserve.
+I know love isn't just sweet words and promises. It's patience, effort, understanding, and choosing someone even when things aren't easy. And if life gives me the chance to love you, I want to show you that my feelings aren't just something I say; they're something I'm willing to stand by.
 
-**Natasha, if my heart could speak without fear, it would tell you that you're the girl I hope to call mine someday.** ❤️🌹
+Natasha, I don't just want a place in your heart; I want to be someone who makes it feel safe to love. And if I could make one wish today, it would be for the chance to turn these feelings into a beautiful story with you. ❤️🌹
 
-— Alex 🌹
+— Alex, with a heart that keeps choosing you. ❤️
 
 `;
 
